@@ -27,7 +27,3 @@ $ ./my_cli move directory1/file1.txt directory2
 $ ./my_cli delete directory2/file1.txt
 $ ./my_cli rename directory2/file2.txt new_file.txt
 
-<strong>Requirements</strong>
-
-C++11 compiler or higher
-<filesystem> library (for C++17 standard)
